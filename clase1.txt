@@ -1,5 +1,12 @@
-Hola a todos
-Bienvenidos a la especializacion de desarrollo de dispositivos moviles 
-Durante este curso vamos a aprender cosas nuevas ;
-todo lo necesario para aprender a crear aplicaciones para dispositivos moviles.
-Exitos para todos !!!!
+Esta es la preparacion de la clase de git 
+Esta clase es para 5 estudiantes 
+Nancy Ortega 
+Maria Rodriguez
+Milena Roa
+Pablo Ruiz Carlos Suarez 
+y para la especializcion 
+desarrollo de aplicaciones moviles 
+
+Espero este grupo le guste mi clase y sean juiciosos 
+Exitos para que todos se certifiquen.
+
